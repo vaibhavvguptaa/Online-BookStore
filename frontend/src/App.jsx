@@ -1,6 +1,6 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
-import NavBar from "./components/navBar.jsx";
+import NavBar from './components/navBar.jsx';
 import Footer from "./components/Footer.jsx";
 import { AuthProvide } from "./context/AuthContext.jsx";
 
