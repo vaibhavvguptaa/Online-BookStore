@@ -17,9 +17,9 @@ const Banner = () => {
           New Releases This Week
         </h1>
         <p className="mb-10">
-          It's time to update your reading list with some of the latest and
+          It&apos;s time to update your reading list with some of the latest and
           greatest releases in the literary world. From heart-pumping thrillers
-          to captivating memoirs, this week's new releases offer something for
+          to captivating memoirs, this week&apos;s new releases offer something for
           everyone.
         </p>
 

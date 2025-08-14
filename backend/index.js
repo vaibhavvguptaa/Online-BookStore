@@ -38,7 +38,7 @@ async function main() {
   });
 }
 main()
-  .then(() => console.log("Mongodb conneceted"))
+  .then(() => console.log("Mongodb connected"))
   .catch((err) => console.log(err));
 
 app.listen(port, () => {
