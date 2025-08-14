@@ -1,13 +1,13 @@
 {
-  "name": "chat-app",
+  "name": "online-bookstore",
   "version": "1.0.0",
-  "description": "",
+  "description": "An online bookstore application",
   "main": "index.js",
   "scripts": {
     "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "npm run start --prefix backend"
   },
-  "keywords": [],
+  "keywords": ["bookstore", "online", "books", "ecommerce"],
   "author": "",
   "license": "ISC"
 }

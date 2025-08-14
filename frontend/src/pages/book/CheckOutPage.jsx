@@ -97,7 +97,7 @@ const CheckoutPage = () => {
                     </div>
 
                     <div className="md:col-span-5">
-                      <label html="email">Email Address</label>
+                      <label htmlFor="email">Email Address</label>
                       <input
                         type="text"
                         name="email"
@@ -109,7 +109,7 @@ const CheckoutPage = () => {
                       />
                     </div>
                     <div className="md:col-span-5">
-                      <label html="phone">Phone Number</label>
+                      <label htmlFor="phone">Phone Number</label>
                       <input
                         {...register("phone", { required: true })}
                         type="number"
