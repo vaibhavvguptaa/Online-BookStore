@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import BookCard from "../book/BookCard";
 
 import { Swiper, SwiperSlide } from "swiper/react";
